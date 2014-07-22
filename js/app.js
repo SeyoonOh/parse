@@ -1,8 +1,8 @@
 /**
  * Created by OSYnLHJ on 2014-07-22.
  */
-var parseID="zef3BeJT76iMxcl5omOQp6F7qauE3G5e87g29tk2";
-var parseRestKey="1A04HTjaDBVtRHpO8uzSUlDO5kbgr6W4GGWiyLn6";
+var parseID = "zef3BeJT76iMxcl5omOQp6F7qauE3G5e87g29tk2";
+var parseRestKey = "1A04HTjaDBVtRHpO8uzSUlDO5kbgr6W4GGWiyLn6";
 
 $(function() {
 
